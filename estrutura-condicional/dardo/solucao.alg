@@ -18,8 +18,8 @@ senao
    escreva("Maior distância:",d2)
    senao 
       escreva("Maior distância:",d3)
- fimse 
-fimse        
+fimse
+fimse       
   
 
 Fimalgoritmo
